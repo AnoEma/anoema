@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 I'm Ano Emangi, but you can call me Arno, a passionate software developer and technology enthusiast. I currently work as a Software Engineer at Creditas. </br>
-With more than 3 years of experience in the area, I had the opportunity to work on some interesting projects and explore different technologies, always studying as I said: </br>
+With more than 4 years of experience in the area, I had the opportunity to work on some interesting projects and explore different technologies, always studying as I said: </br>
 Knowledge makes the soul young and lessens the bitterness of old age, so reap wisdom. Stores smoothness for tomorrow.
 
 
