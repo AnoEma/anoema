@@ -1,13 +1,13 @@
 # 👋 Hi there
 
 I'm Ano Emangi, but you can call me Arno, a passionate software developer and technology enthusiast. I currently work as a Software Engineer at Creditas. </br>
-With more than 4 years of experience in the area, I had the opportunity to work on some interesting projects and explore different technologies, always studying as I said: </br>
+With more than 5 years of experience in the area, I had the opportunity to work on some interesting projects and explore different technologies, always studying as I said: </br>
 Knowledge makes the soul young and lessens the bitterness of old age, so reap wisdom. Stores smoothness for tomorrow.
 
 
 # 🚀 Expertise
 
-My main focus is back-end development, where I specialize in building back-end applications in general. I have extensive knowledge of DotNet C#, SQL, JavaScript in the back using NodeJs. 
+My main focus is back-end development, where I specialize in building back-end applications in general. I have extensive knowledge of DotNet C#, SQL, JavaScript in the back using NodeJs, Python. 
 </br>
 I love working on the backend because it allows me to combine my creativity with problem solving skills and implementing new design patterns, refactoring and testing...
 </br>
@@ -35,6 +35,7 @@ I am currently studying mobile infrastructure and development using DotNet Maui
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ano_emangi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnoboys)
